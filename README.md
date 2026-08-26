@@ -42,21 +42,21 @@
   </table>
   
 </div>
-  <table>
-    <tr>
-      <td>
+  <!-- <table> -->
+    <!-- <tr> -->
+      <!-- <td> -->
         <!-- LeetCode Score -->
-        <img src="https://leetcard.jacoblin.cool/ChinmayBhattt?theme=chartreuse&font=Abel" alt="LeetCode Score" width="660" height="auto" />
-      </td>
-      <td>
+        <!-- <img src="https://leetcard.jacoblin.cool/ChinmayBhattt?theme=chartreuse&font=Abel" alt="LeetCode Score" width="660" height="auto" /> -->
+      <!-- </td> -->
+      <!-- <td> -->
       <!-- GitHub Graph -->
-         <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChinmayBhattt&theme=tokyo-night&hide_border=true&bg_color=000000&color=00d9ff&line=00ff88&point=ffffff&area=true&area_color=1a1a1a" alt="Productive Time" width="750" />
-      </td>
-    </tr>
+        <!-- G <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChinmayBhattt&theme=tokyo-night&hide_border=true&bg_color=000000&color=00d9ff&line=00ff88&point=ffffff&area=true&area_color=1a1a1a" alt="Productive Time" width="750" />-->
+      <!-- </td> -->
+    <!-- </tr> -->
   </table>
 
 <!-- Divider line -->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
  <!-- <hr> -->
 
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> About Me 
